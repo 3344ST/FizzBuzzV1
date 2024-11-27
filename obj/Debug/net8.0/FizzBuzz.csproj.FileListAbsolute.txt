@@ -1,0 +1,14 @@
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.exe
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.deps.json
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.runtimeconfig.json
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.dll
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\bin\Debug\net8.0\FizzBuzz.pdb
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.dll
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\refint\FizzBuzz.dll
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll

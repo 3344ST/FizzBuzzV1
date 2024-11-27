@@ -12,3 +12,4 @@ C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\refint\
 C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.pdb
 C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.genruntimeconfig.cache
 C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\ref\FizzBuzz.dll
+C:\Users\TschanSebastian\source\repos\Übungen\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json
